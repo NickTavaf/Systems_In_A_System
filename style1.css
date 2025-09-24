@@ -434,17 +434,17 @@ h2{
 
   .grid-container:has(.blue:hover) .item17 {
     opacity: 1;            /* make sure it's visible */
-    filter: none;          /* cancel the darken */
-    z-index: 1000;        /* higher than anything else */
-    pointer-events: none;  /* don't steal the hover from the blue tile */
+    filter: none;        
+    z-index: 1000;        
+    pointer-events: none; 
   }
 
 
   .grid-container:has(.blue:hover) .item18 {
-    opacity: 1;            /* make sure it's visible */
-    filter: none;          /* cancel the darken */
-    z-index: 1000;        /* higher than anything else */
-    pointer-events: none;  /* don't steal the hover from the blue tile */
+    opacity: 1;          
+    filter: none;         
+    z-index: 1000;        
+    pointer-events: none; 
   }
 
 
