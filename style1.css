@@ -19,6 +19,27 @@ h2{
    
 }
 
+h3{
+    color: white;
+    text-align: center;
+    font-weight: normal;
+    position: absolute;
+    margin-left: 90vh;
+    margin-top: 125vh
+  
+}
+
+
+h4{
+    color: white;
+    text-align: center;
+    margin-top: 5vh;
+    font-weight: normal;
+    position: absolute;
+    margin-top: 100vh;
+    padding: 30vh;
+}
+
 
 .grid-container {
     margin-top: 10vh;
